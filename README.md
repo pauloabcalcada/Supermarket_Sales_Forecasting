@@ -1,2 +1,2 @@
-# Medical_Insurance_Costs
-This project aims to predict medical insurance costs using linear regression.
+# Supermarketing_Sales_Forecasting
+This project aims to forecast supermarket sales using machine learning. This case study is part of the content of the PED (Preparatório para Entrevistas em Dados) course.
